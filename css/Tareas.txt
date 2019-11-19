@@ -1,0 +1,2 @@
+Cambiar en 'icomoon.css' para la posicion de iconos de redes sociales.
+Reducir tamaño de style y animate css
